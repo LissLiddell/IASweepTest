@@ -1,3 +1,5 @@
+const { sumar } = require('./index');
+
 describe('sumar', () => {
     it('sumar dos numeros', () => {
       const result = sumar(8, 5);
