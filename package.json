@@ -1,0 +1,22 @@
+{
+  "name": "iasweeptest",
+  "version": "1.0.0",
+  "description": "Prueba para resolver errores con sweep",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LissLiddell/IASweepTest.git"
+  },
+  "author": "LissLiddell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LissLiddell/IASweepTest/issues"
+  },
+  "homepage": "https://github.com/LissLiddell/IASweepTest#readme",
+  "dependencies": {
+    "vitest": "^3.1.4"
+  }
+}
